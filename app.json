@@ -1,0 +1,12 @@
+{
+  "name": "learn",
+  "displayName": "learn",
+  "expo": {
+    "name": "learn",
+    "slug": "learn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
